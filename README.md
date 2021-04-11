@@ -6,7 +6,7 @@
 #### Python - Pandas - SQL 
 
 - Twitter: https://twitter.com/TheMaxManifesto
-- LinkedIn: https://www.linkedin.com/in/max-the-postpunk/ 
+- LinkedIn: https://www.linkedin.com/in/max-the-postpunk/  
 <!--
 **max-moore/max-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ## Hi there! 👋
-### I'm a software enginner with a focus on data science - I'm passionate about working on projects that are impactful or interesting to everyday people
+### I'm a software engineer with a focus on data science - I'm passionate about working on projects that are impactful or interesting to everyday people
 ### I'm interested in NLP
 ### I like statistics and board games - challenge me to a game of Yahtzee!
 
